@@ -6,7 +6,7 @@ The dataset includes historical weather features such as wind speed, humidity, a
 This project predicts Auckland's daily mean temperature using a Random Forest regression model.
 The dataset includes historical weather features such as wind speed, humidity, and air pressure.
 
-⚠️ Note: This is a study project completed as part of my coursework at Unitec. Due to security and academic integrity reasons, the original dataset is not being publicly shared.
+⚠️ Note: This is a study project completed as part of my coursework at Unitec. Due to security and academic integrity reasons, the original dataset is not publicly shared.
 
 This repository serves as a showcase for potential employers.
 
